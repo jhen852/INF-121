@@ -1,0 +1,6 @@
+C:\Users\Usuario\Pictures\HUANCA 121\Ej1POO\Ej1POO\bin\Debug\Ej1POO.exe.config
+C:\Users\Usuario\Pictures\HUANCA 121\Ej1POO\Ej1POO\bin\Debug\Ej1POO.exe
+C:\Users\Usuario\Pictures\HUANCA 121\Ej1POO\Ej1POO\bin\Debug\Ej1POO.pdb
+C:\Users\Usuario\Pictures\HUANCA 121\Ej1POO\Ej1POO\obj\Debug\Ej1POO.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Pictures\HUANCA 121\Ej1POO\Ej1POO\obj\Debug\Ej1POO.exe
+C:\Users\Usuario\Pictures\HUANCA 121\Ej1POO\Ej1POO\obj\Debug\Ej1POO.pdb
